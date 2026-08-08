@@ -53,6 +53,15 @@ Built with a custom dark-mode desktop GUI and encrypted communication protocols,
 
 ---
 
+
+## Key Features
+
+- **[ ✦ ] High-Speed Validation**: Multi-threaded credential validation against Steam authentication servers.
+- **[ ✦ ] Library Extraction**: Automatic parsing of owned games, wallet balance, and account age.
+- **[ ✦ ] Proxy Rotation Engine**: Integrated proxy support (HTTP/SOCKS) to prevent rate limits and IP bans.
+- **[ ✦ ] Secure Export**: Automated saving of valid hits to encrypted local storage with formatted logs.
+
+---
 ## System Architecture
 
 ```
